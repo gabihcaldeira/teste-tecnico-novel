@@ -32,3 +32,14 @@
 | ---------------------- | ------------------------------------- |
 | /home                  | Visualizar, editar e deletar veículos |
 | /vehicles-registration | Cadastro de veículos                  |
+
+## Features
+
+- Cadastro de veículos
+  ![imagem de cadastro](public/pg-cadastro.jpeg)
+
+- Visualização de veículos
+  ![imagem de lista de veículos](public/pg-lista.jpeg)
+
+- Atualização de veículos
+  ![imagem formulário de atualização](public/pg-editar.jpeg)
