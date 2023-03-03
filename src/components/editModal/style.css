@@ -1,0 +1,21 @@
+.edit__form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.btn-primary {
+  width: 100%;
+  max-width: 200px;
+
+  margin: auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn__save {
+  margin-left: 5px;
+  font-size: 20px;
+}
