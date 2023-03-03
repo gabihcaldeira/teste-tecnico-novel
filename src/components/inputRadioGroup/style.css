@@ -1,0 +1,9 @@
+.form-check.form-check-inline > .form-check-input:checked {
+  background-color: orange;
+  border-color: orange;
+}
+
+.form-check.form-check-inline > .form-check-input:focus {
+  border-color: rgb(253, 165, 13);
+  box-shadow: 0 0 0 0.25rem rgb(253, 165, 13, 0.25);
+}
