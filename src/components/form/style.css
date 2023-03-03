@@ -1,0 +1,42 @@
+.page__container {
+  width: 100%;
+  position: relative;
+}
+
+.register__form {
+  padding: 0px 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  overflow: hidden;
+}
+
+@media (min-width: 768px) {
+  .register__form {
+    width: 450px;
+    margin: 0px auto;
+  }
+}
+
+.btn.btn-orange {
+  margin: 20px 0px 35px;
+  background-color: orange;
+  color: white;
+
+  font-size: 18px;
+  font-weight: 500;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn.btn-orange:hover {
+  background-color: rgb(205, 141, 22);
+  color: white;
+}
+
+.btn__icon {
+  font-size: 25px;
+  margin-left: 10px;
+}
