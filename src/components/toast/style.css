@@ -1,0 +1,22 @@
+.toast-container > .toast {
+  background-color: rgb(173, 228, 173);
+  color: rgb(16, 110, 16);
+  border: 1.5px solid rgb(16, 110, 16);
+}
+
+.toast-body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.toast-body__text {
+  width: 70%;
+
+  display: block;
+  font-size: 18px;
+}
+
+.toast__icon {
+  font-size: 30px;
+}
